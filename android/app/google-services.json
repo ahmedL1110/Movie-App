@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246429836565",
+    "project_id": "photo-play-uikit",
+    "storage_bucket": "photo-play-uikit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246429836565:android:b76ed02d42b77a676c351c",
+        "android_client_info": {
+          "package_name": "com.example.photoplayuikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246429836565-vnphkt3aumlollikjbbu1r6g2nla6em8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdt_IkJk6Q987psqWfB_wvQ2aGDFc_cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246429836565-vnphkt3aumlollikjbbu1r6g2nla6em8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
